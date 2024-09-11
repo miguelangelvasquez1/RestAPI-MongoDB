@@ -1,0 +1,37 @@
+# Node modules
+node_modules/
+
+# Archivos de configuración de entorno
+.env
+
+# Archivos de logs
+*.log
+
+# Archivos de base de datos locales
+*.sqlite
+*.db
+
+# Archivos temporales y caché
+.npm/
+.yarn/
+.cache/
+.next/
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de IDE/editor
+.idea/
+.vscode/
+*.suo
+*.ntvs_analysis.dat
+*.njsproj
+*.sln
+
+# Archivos de construcción
+dist/
+build/
+
+# Archivos generados por herramientas de pruebas
+coverage/
